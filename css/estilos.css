@@ -58,3 +58,8 @@ body
     padding: 0.5em;
 
 }
+
+#post .imagen img{
+    display: block;
+    margin: auto;
+}
